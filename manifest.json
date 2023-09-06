@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Tiny Fishings 3D A Game By CodeSculpt Games",
+  "description": "Tiny Fishing - 3D A Game By CodeSculpt Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Tiny Fishing 3D",
+  "name": "Tiny Fishing - 3D",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Tiny Fishing 3D",
+  "short_name": "Tiny Fishing - 3D",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Tiny Fishing 3D",
+      "name": "Tiny Fishing - 3D",
       "url": "",
       "description": ""
     }
